@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\bin\Debug\netcoreapp2.1\SealedClass.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\bin\Debug\netcoreapp2.1\SealedClass.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\bin\Debug\netcoreapp2.1\SealedClass.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\bin\Debug\netcoreapp2.1\SealedClass.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\bin\Debug\netcoreapp2.1\SealedClass.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\SealedClass\obj\Debug\netcoreapp2.1\SealedClass.genruntimeconfig.cache

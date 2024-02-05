@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyVAkWT1vuysXCT5PWy41q39+ckPsp+YxQ/SPac+jNp0YCd/gYkgpm4szh/7lCytApWJQ4CjQj6axekqAf1jCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\InferfaceDemo\\InferfaceDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

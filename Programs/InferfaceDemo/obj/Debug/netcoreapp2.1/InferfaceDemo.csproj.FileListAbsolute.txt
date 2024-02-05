@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\bin\Debug\netcoreapp2.1\InferfaceDemo.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\bin\Debug\netcoreapp2.1\InferfaceDemo.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\bin\Debug\netcoreapp2.1\InferfaceDemo.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\bin\Debug\netcoreapp2.1\InferfaceDemo.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\bin\Debug\netcoreapp2.1\InferfaceDemo.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\InferfaceDemo\obj\Debug\netcoreapp2.1\InferfaceDemo.genruntimeconfig.cache

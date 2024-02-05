@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache

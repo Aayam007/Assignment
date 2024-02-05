@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.exe
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\bin\Debug\netcoreapp3.1\Switchcase.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\Switchcase\obj\Debug\netcoreapp3.1\Switchcase.genruntimeconfig.cache

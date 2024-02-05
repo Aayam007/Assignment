@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\ClassAndObject\\ClassAndObject.csproj",
+      "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\ClassAndObject\\ClassAndObject.csproj",
       "projectName": "ClassAndObject",
-      "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\ClassAndObject\\ClassAndObject.csproj",
+      "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\ClassAndObject\\ClassAndObject.csproj",
       "packagesPath": "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\ClassAndObject\\obj\\",
+      "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\ClassAndObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bishow Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",

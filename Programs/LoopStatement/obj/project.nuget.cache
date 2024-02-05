@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlpgBe3xOHOaQqC1bshgEn/WKrHtCuFRvVwb7jVdXWykIn2sUqNrEKD0ks5p67jn9JrwLmgB1X3k4ISmSS8feQ==",
+  "dgSpecHash": "bn0OK6/lTG0Z5Tn7HqgBszcMxm8bNa1IdJAVd99f1wlf4aC4eBg9Z9L1XWFHy7E1Ca296tNEF3hSVRnpW9JwjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\LoopStatement.csproj",
+  "projectFilePath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\LoopStatement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

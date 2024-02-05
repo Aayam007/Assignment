@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\LoopStatement.csproj": {}
+    "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\LoopStatement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\LoopStatement.csproj": {
+    "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\LoopStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\LoopStatement.csproj",
+        "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\LoopStatement.csproj",
         "projectName": "LoopStatement",
-        "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\LoopStatement.csproj",
+        "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\LoopStatement.csproj",
         "packagesPath": "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th Sem\\LoopStatement\\obj\\",
+        "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\LoopStatement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bishow Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",
