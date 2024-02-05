@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.exe
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.dll
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\bin\Debug\netcoreapp3.1\ifcondition.pdb
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.dll
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.pdb
+C:\Users\Bishow Shrestha\Desktop\6th Sem\ifcondition\obj\Debug\netcoreapp3.1\ifcondition.genruntimeconfig.cache

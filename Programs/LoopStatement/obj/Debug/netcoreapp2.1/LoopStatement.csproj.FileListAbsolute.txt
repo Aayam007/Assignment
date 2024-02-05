@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\bin\Debug\netcoreapp2.1\LoopStatement.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\bin\Debug\netcoreapp2.1\LoopStatement.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\bin\Debug\netcoreapp2.1\LoopStatement.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\bin\Debug\netcoreapp2.1\LoopStatement.dll
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\bin\Debug\netcoreapp2.1\LoopStatement.pdb
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.dll
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.pdb
+C:\Users\Bishow Shrestha\Desktop\6th Sem\LoopStatement\obj\Debug\netcoreapp2.1\LoopStatement.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.exe
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\bin\Debug\netcoreapp3.1\BaseKeyWord.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Programs\BaseKeyWord\obj\Debug\netcoreapp3.1\BaseKeyWord.genruntimeconfig.cache
