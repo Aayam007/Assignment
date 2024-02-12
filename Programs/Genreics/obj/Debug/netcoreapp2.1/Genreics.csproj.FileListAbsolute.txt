@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\bin\Debug\netcoreapp2.1\Genreics.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\bin\Debug\netcoreapp2.1\Genreics.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\bin\Debug\netcoreapp2.1\Genreics.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\bin\Debug\netcoreapp2.1\Genreics.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\bin\Debug\netcoreapp2.1\Genreics.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\Genreics\obj\Debug\netcoreapp2.1\Genreics.genruntimeconfig.cache

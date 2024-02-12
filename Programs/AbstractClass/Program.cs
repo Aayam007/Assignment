@@ -5,6 +5,7 @@ public abstract class Animal
 {
     // Abstract method
     public abstract void MakeSound();
+   
 
     // Regular method
     public void Sleep()
@@ -21,10 +22,10 @@ public class Dog : Animal
     {
         Console.WriteLine("Woof! Woof!");
     }
-    //public override void Sleep()
-    //{
-    //    Console.WriteLine("Woof! Woof!");
-    //}
+    public override void sleep()
+    {
+        console.writeline("woof! woof!");
+    }
 }
 
 class Program

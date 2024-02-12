@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\BaseKeyWord\\BaseKeyWord.csproj",
+      "projectUniqueName": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\BaseKeyWord\\BaseKeyWord.csproj",
       "projectName": "BaseKeyWord",
-      "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\BaseKeyWord\\BaseKeyWord.csproj",
+      "projectPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\BaseKeyWord\\BaseKeyWord.csproj",
       "packagesPath": "C:\\Users\\Bishow Shrestha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Programs\\BaseKeyWord\\obj\\",
+      "outputPath": "C:\\Users\\Bishow Shrestha\\Desktop\\6th-sem-2024-New-Summit\\Assignment\\Programs\\BaseKeyWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bishow Shrestha\\AppData\\Roaming\\NuGet\\NuGet.Config",

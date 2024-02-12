@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\bin\Debug\netcoreapp2.1\AsyncAwait.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\AsyncAwait\obj\Debug\netcoreapp2.1\AsyncAwait.genruntimeconfig.cache

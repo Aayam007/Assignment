@@ -1,0 +1,13 @@
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.deps.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.runtimeconfig.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.runtimeconfig.dev.json
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\bin\Debug\netcoreapp2.1\CollectionDemo.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.csproj.AssemblyReference.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.AssemblyInfo.cs
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.dll
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.pdb
+C:\Users\Bishow Shrestha\Desktop\6th-sem-2024-New-Summit\Assignment\Programs\CollectionDemo\obj\Debug\netcoreapp2.1\CollectionDemo.genruntimeconfig.cache
